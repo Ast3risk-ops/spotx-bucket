@@ -14,4 +14,4 @@ scoop install spotx-bucket/spotx
 
 # SpotX is not portable!
 
-The app here is called spotx, however it still isn't portable.
+The app here is called `spotx`. However, it still is not portable.
