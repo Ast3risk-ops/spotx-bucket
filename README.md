@@ -11,3 +11,7 @@ Run the following:
 scoop bucket add spotx-bucket https://github.com/ast3risk-ops/spotx-bucket
 scoop install spotx-bucket/spotx
 ```
+
+# SpotX is not portable!
+
+The app here is called spotx, however it still isn't portable.
