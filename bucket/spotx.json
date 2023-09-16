@@ -14,10 +14,10 @@
         ]
     },
     "uninstaller": {
-        "script": [ 
+        "script": [
             "if ($cmd -ne 'uninstall') { return }",
             "Invoke-ExternalCommand \"$Env:Appdata\\Spotify\\Spotify.exe\" -ArgumentList @('/uninstall', '/silent') | Out-Null"
-        ]  
+        ]
     },
     "checkver": {
         "script": [
