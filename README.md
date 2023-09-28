@@ -7,7 +7,7 @@
 
 Run the following:
 
-```pwsh
+```bash
 scoop bucket add spotx-bucket https://github.com/ast3risk-ops/spotx-bucket
 scoop install spotx-bucket/spotx
 ```
