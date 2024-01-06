@@ -1,6 +1,6 @@
 {
     "version": "1.8-20240105-cd057d",
-    "description": "Modified Spotify client. Blocks ads, updates and more. (fixed up-to-date version, preserves Spotify settings on update)",
+    "description": "Modified Spotify client. Blocks ads, updates and more. (fixed up-to-date version, preserves Spotify settings and user data on update)",
     "homepage": "https://github.com/amd64fox/SpotX",
     "license": "MIT",
     "url": "https://raw.githubusercontent.com/SpotX-Official/SpotX/main/run.ps1",
