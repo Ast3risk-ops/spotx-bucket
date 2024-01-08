@@ -1,10 +1,10 @@
 {
-    "version": "1.8-20240105-cd057d",
+    "version": "1.8-20240108-31dd0c",
     "description": "Modified Spotify client. Blocks ads, updates and more. (fixed up-to-date version, preserves Spotify settings and user data on update)",
     "homepage": "https://github.com/amd64fox/SpotX",
     "license": "MIT",
     "url": "https://raw.githubusercontent.com/SpotX-Official/SpotX/main/run.ps1",
-    "hash": "b0b74323c3dad857fd16d84f362f94623b0fb63d39776eef9b3da54c5b4970a6",
+    "hash": "797bc8a2da97bfefa9b481fd987cfa76c619a11f5dc9aa62bce26994d43c943e",
     "installer": {
         "script": [
             "# older versions of Powershell 5 requires BOM to recognize UTF8 scripts",
